@@ -3,6 +3,8 @@ module.exports = {
         "LinearSearchList",
         "BinarySearchList",
         "BubbleSort",
+        "Stack",
+        "Queue",
     ],
 }
 
